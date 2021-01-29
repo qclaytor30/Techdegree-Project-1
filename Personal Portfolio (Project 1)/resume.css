@@ -1,0 +1,17 @@
+body {
+  font-family: "Helvetica";
+}
+
+.main-image {
+  border: solid 4px white;
+  border-radius: 50%;
+}
+
+h1 {
+  background-color: #e2e2e2;
+  padding: 10px;
+}
+
+.section-title {
+  text-transform:uppercase;
+}
